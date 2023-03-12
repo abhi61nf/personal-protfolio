@@ -50,7 +50,7 @@ export const ProjectList = [
     {
         name: "Crypto-Analyzer",
         image: Proj7,
-        skills: "JavaScript,React js,Mareial UI",
+        skills: "JavaScript,React js,Material UI",
         githubUrl : "https://github.com/abhi61nf/crypto-hunter",
         liveUrl : "https://crypto-hunter.netlify.app/"
       },
