@@ -28,7 +28,7 @@ function Home() {
             </IconButton>
           </a>
           <div>
-            <a href="https://drive.google.com/file/d/1mwaJj8k1F59UWs5PnE7WNPxyugtXQdqI/view?usp=share_link">
+            <a href="https://drive.google.com/file/d/1HfArQBwHQioFq_PrepKTuP_FxLBKCPpz/view?usp=share_link">
               <button className="button">Download CV </button>
             </a>
           </div>
