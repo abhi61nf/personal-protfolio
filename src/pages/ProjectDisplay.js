@@ -16,6 +16,7 @@ function ProjectDisplay() {
       <p>
         <b>Skills:</b> {project.skills}
       </p>
+      <h2> Check them on github and web </h2>
       <div style={{ display: 'flex', gap: 8 }}> 
       <a href={project.githubUrl}>
       <IconButton>

@@ -12,8 +12,12 @@
     color: #3e497a;
     font-size: 35px;
   }
+
+  .project h2 {
+    font-family: cursive;
+  }
   .project img {
-    width: 700px;
+    width: 500px;
     border-radius: 10px;
   }
   
